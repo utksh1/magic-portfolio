@@ -6,11 +6,11 @@ const person = {
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
-  role: "Design Engineer",
+  role: "Web Developer",
   avatar: "/images/avatar.jpg",
-  email: "example@gmail.com",
-  location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
-  languages: ["English", "Bahasa"], // optional: Leave the array empty if you don't want to display languages
+  email: "Utkarshsingh60101@gmail.com",
+  location: "Asia/India", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
+  languages: ["English", "Hindi"], // optional: Leave the array empty if you don't want to display languages
 };
 
 const newsletter = {
