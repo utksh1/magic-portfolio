@@ -1,4 +1,4 @@
-import { Logo } from "@once-ui-system/core";
+mpleimport { Logo } from "@once-ui-system/core";
 
 const person = {
   firstName: "Utkarsh",
